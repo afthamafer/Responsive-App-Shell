@@ -4,5 +4,4 @@ Responsive App Shell
  BUILD IN HTML AND CSS
 
 
-![Screenshot](desktopSize.png)
-![Screenshot](mobileSize.png)
+![](images/desktopSize.png)
