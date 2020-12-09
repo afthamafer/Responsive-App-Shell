@@ -1,0 +1,37 @@
+
+
+* {
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  background-color: #ececec;
+}
+
+header {
+  background-color: #2196f3;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+h1{
+  background-color: #2196f3;
+  color: white;
+}
+#tabs a {
+  text-decoration: none;
+  padding-top: 10px;
+  opacity: 0.6;
+ 
+}
+#tabs {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: #94989b;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: var(--tabs-height);
+}
